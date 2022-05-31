@@ -59,7 +59,7 @@ body {
         font-size: 14px;
         line-height: 1.14;
         letter-spacing: 0.02em;
-        color:var(--header-color);
+        color: #757575;
 }
 /*------------------------MAIN-----------------------*/
 .text {
@@ -164,7 +164,7 @@ button {
     align-items: center;
     text-align: center;
     letter-spacing: 0.06em;
-    color:var(--main-btn-color);
+    color: #FFFFFF;
 }
 .all-btn {
     font-family: 'Roboto';
@@ -227,7 +227,10 @@ button {
         font-size: 26px;
         line-height: 1.19;
         letter-spacing: 0.03em;
-        color: #FFFFFF;
+        color: #2196F3;
+}
+.footer-logo-accent {
+    color: #FFFFFF;
 }
 .footer-address {
     font-family: 'Roboto';
